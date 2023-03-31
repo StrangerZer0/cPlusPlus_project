@@ -1,0 +1,3 @@
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/cmake-build-debug/CMakeFiles/Projekt.dir

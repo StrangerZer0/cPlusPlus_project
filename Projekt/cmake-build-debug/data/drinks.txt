@@ -1,0 +1,9 @@
+          GROUP=Drinks
+          NAME=Water
+          PRICE=1.50
+          NAME=Cola
+          PRICE=1.90
+          NAME=Pepsi
+          PRICE=1.90
+          NAME=Juice
+          PRICE=1.75

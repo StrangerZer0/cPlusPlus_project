@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/Database.cpp
+Database.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/Database.h
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/Database.h
+iostream
+-
+vector
+-
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileHistory.cpp
+iostream
+-
+iomanip
+-
+Database.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/Database.h
+FileHistory.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileHistory.h
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileHistory.h
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileIOEngine.cpp
+string
+-
+fstream
+-
+vector
+-
+FileIOEngine.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileIOEngine.h
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileIOEngine.h
+vector
+-
+Database.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/Database.h
+
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/main.cpp
+iostream
+-
+iomanip
+-
+random
+-
+ctime
+-
+algorithm
+-
+Database.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/Database.h
+FileIOEngine.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileIOEngine.h
+FileHistory.h
+/Users/dasha/Desktop/CDV (2021 - 2022)/1 semestr zimowy/Podstawy programowania (laboratorium)/Zaliczenie/Projekt/FileHistory.h
+

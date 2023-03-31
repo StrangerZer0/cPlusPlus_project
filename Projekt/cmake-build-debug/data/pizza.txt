@@ -1,0 +1,13 @@
+GROUP=Pizza
+NAME=Margarita
+PRICE=15.00
+NAME=4 cheeses
+PRICE=12.00
+NAME=Pizza with ham and cheese
+PRICE=14.50
+NAME=Vegetarian pizza
+PRICE=13.00
+NAME=Pizza Salami
+PRICE=16.00
+NAME=Pizza Spicy
+PRICE=14.00

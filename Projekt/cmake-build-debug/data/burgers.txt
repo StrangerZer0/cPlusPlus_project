@@ -1,0 +1,11 @@
+          GROUP=Burgers
+          NAME=Big Cheese Burger
+          PRICE=3.00
+          NAME=Royal Burger
+          PRICE=5.00
+          NAME=Burger Classic
+          PRICE=3.00
+          NAME=Burger Grande
+          PRICE=4.50
+          NAME=Burger Giga
+          PRICE=6.00

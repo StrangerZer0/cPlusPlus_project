@@ -1,0 +1,452 @@
+#Order
+DATE=2022-02-14
+ID=Ewx;+?o9bH
+#Dish
+NAME=Cola
+PRICE=1.900000
+N=2
+#Dish
+NAME=Royal Burger
+PRICE=5.000000
+N=2
+#Dish
+NAME=Pizza Salami
+PRICE=16.000000
+N=1
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=1
+#Endorder
+#Order
+DATE=2022-01-17
+ID=\+e@+i^z-.
+#Dish
+NAME=Pizza Salami
+PRICE=16.000000
+N=2
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=2
+#Dish
+NAME=4 cheeses
+PRICE=12.000000
+N=1
+#Endorder
+#Order
+DATE=2022-02-04
+ID=5b"[($V'j)
+#Dish
+NAME=Cola
+PRICE=1.900000
+N=1
+#Dish
+NAME=Pizza with ham and cheese
+PRICE=14.500000
+N=3
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=2
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=2
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=3
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Dish
+NAME=Royal Burger
+PRICE=5.000000
+N=2
+#Endorder
+#Order
+DATE=2022-01-11
+ID=y}8%X9=]rP
+#Dish
+NAME=Pizza Salami
+PRICE=16.000000
+N=3
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=2
+#Dish
+NAME=Cola
+PRICE=1.900000
+N=3
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=3
+#Dish
+NAME=4 cheeses
+PRICE=12.000000
+N=2
+#Endorder
+#Order
+DATE=2022-02-05
+ID=}Lv-M/x|H"
+#Dish
+NAME=Burger Grande
+PRICE=4.500000
+N=1
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=1
+#Dish
+NAME=Pizza with ham and cheese
+PRICE=14.500000
+N=3
+#Dish
+NAME=Pizza Salami
+PRICE=16.000000
+N=3
+#Endorder
+#Order
+DATE=2022-01-30
+ID=idgcfhftcf
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=2
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=4
+#Endorder
+#Order
+DATE=2022-01-30
+ID=idgcfhftcf
+#Dish
+NAME=Water
+PRICE=1.500000
+N=1
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=1
+#Dish
+NAME=Royal Burger
+PRICE=5.000000
+N=3
+#Dish
+NAME=Burger Grande
+PRICE=4.500000
+N=2
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=2
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=1
+#Endorder
+#Order
+DATE=2022-01-30
+ID=idgcfhftcf
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=1
+#Dish
+NAME=Water
+PRICE=1.500000
+N=1
+#Endorder
+#Order
+DATE=2022-01-30
+ID=idgcfhftcf
+#Dish
+NAME=Royal Burger
+PRICE=5.000000
+N=1
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Endorder
+#Order
+DATE=2022-01-30
+ID=idgcfhftcf
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=1
+#Endorder
+#Order
+DATE=2022-01-31
+ID=dzvktwxzej
+#Dish
+NAME=Royal Burger
+PRICE=5.000000
+N=2
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=1
+#Endorder
+#Order
+DATE=2022-01-31
+ID=tpqdolvhyj
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=1
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=1
+#Dish
+NAME=4 cheeses
+PRICE=12.000000
+N=1
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=1
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Endorder
+#Order
+DATE=2022-02-01
+ID=tewrscabxv
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=2
+#Dish
+NAME=Vegetarian pizza
+PRICE=13.000000
+N=1
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=2
+#Endorder
+#Order
+DATE=2022-02-01
+ID=egwjbtuemf
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=2
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Dish
+NAME=Vegetarian pizza
+PRICE=13.000000
+N=1
+#Endorder
+#Order
+DATE=2022-02-01
+ID=frwfoamnqu
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=2
+#Dish
+NAME=Burger Grande
+PRICE=4.500000
+N=1
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=1
+#Endorder
+#Order
+DATE=2022-02-01
+ID=hfsvzsnszr
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=1
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=1
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=1
+#Endorder
+#Order
+DATE=2022-02-01
+ID=axbqjijvxu
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Dish
+NAME=Pizza Salami
+PRICE=16.000000
+N=1
+#Dish
+NAME=Cola
+PRICE=1.900000
+N=1
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Endorder
+#Order
+DATE=2022-02-01
+ID=pcbiqihqhb
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=2
+#Dish
+NAME=Burger Grande
+PRICE=4.500000
+N=1
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Dish
+NAME=Royal Burger
+PRICE=5.000000
+N=1
+#Endorder
+#Order
+DATE=2022-02-01
+ID=fqggsamxve
+#Dish
+NAME=Vegetarian pizza
+PRICE=13.000000
+N=1
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Endorder
+#Order
+DATE=2022-02-02
+ID=acmtvcxqfa
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=2
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=1
+#Dish
+NAME=Big Cheese Burger
+PRICE=3.000000
+N=3
+#Endorder
+#Order
+DATE=2022-02-02
+ID=nsatbqcjor
+#Dish
+NAME=Pepsi
+PRICE=1.900000
+N=1
+#Dish
+NAME=Burger Classic
+PRICE=3.000000
+N=1
+#Endorder
+#Order
+DATE=2022-02-02
+ID=yalkhnmmkk
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=1
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=2
+#Endorder
+#Order
+DATE=2022-12-19
+ID=wofhiihsgk
+#Dish
+NAME=Pizza Spicy
+PRICE=14.000000
+N=2
+#Dish
+NAME=Water
+PRICE=1.500000
+N=1
+#Endorder
+#Order
+DATE=2022-12-19
+ID=cgqfvelpme
+#Dish
+NAME=Water
+PRICE=1.500000
+N=1
+#Dish
+NAME=Pizza Spicy
+PRICE=14.000000
+N=1
+#Dish
+NAME=Cola
+PRICE=1.900000
+N=1
+#Endorder
+#Order
+DATE=2023-01-09
+ID=yrwnxuxkdv
+#Dish
+NAME=Juice
+PRICE=1.750000
+N=1
+#Endorder
+#Order
+DATE=2023-01-09
+ID=sorayanxyk
+#Dish
+NAME=Pizza Salami
+PRICE=16.000000
+N=1
+#Endorder
+#Order
+DATE=2023-03-31
+ID=fofmcbzfer
+#Dish
+NAME=Margarita
+PRICE=15.000000
+N=2
+#Dish
+NAME=Burger Giga
+PRICE=6.000000
+N=1
+#Endorder
